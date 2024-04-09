@@ -1,0 +1,26 @@
+{
+  "zhogolevpv@gmail.com" : {
+    "firstName" : "pasha",
+    "secondName" : "zhogolev",
+    "email" : "zhogolevpv@gmail.com",
+    "phone" : "+380504121644",
+    "id" : "253584d1-6106-4317-9043-0a358080e869",
+    "passwordHash" : "$2b$12$HvfUbnIsbjD/4m6hj2BJH.9jCpKYbPS8u2aVToKJGlo20780t4qBu"
+  },
+  "Zhogolevpv@gmail.com" : {
+    "firstName" : "PAsha",
+    "secondName" : "z",
+    "email" : "Zhogolevpv@gmail.com",
+    "phone" : "+380504121644",
+    "id" : "2e2abc53-5af7-472a-99a1-17c77931286a",
+    "passwordHash" : "$2b$12$8sKmJU5c5TfRJ45.cZhoX.kYRaarCeoLCK0sO8fgUkWupPAiYEzDu"
+  },
+  "zh@test.com" : {
+    "firstName" : "pppp",
+    "secondName" : "zzzz",
+    "email" : "zh@test.com",
+    "phone" : "+380504121644",
+    "id" : "5195bb08-dc2b-4398-8c10-73abc6fc1872",
+    "passwordHash" : "$2b$12$M87iAc3nGb5HayxMHd99Beobb/THm.YURKMmj3IkEte3tV78FI.5."
+  }
+}
